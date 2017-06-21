@@ -1,0 +1,23 @@
+{
+  "name": "git-testing-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "materia start"
+  },
+  "devDependencies": {
+    "materia-server": "~0.8.0"
+  },
+  "engines": {
+    "node": ">= 4.3.2"
+  },
+  "author": "",
+  "license": "MIT",
+  "materia": {
+    "name": "Git Testing 4",
+    "icon": {
+      "color": "grey-500"
+    }
+  }
+}
